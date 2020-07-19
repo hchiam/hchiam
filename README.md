@@ -1,4 +1,4 @@
-### Hi! 🔍 <https://hchiam.github.io/?can-you-find-all-the-hidden-features?>
+### Hi there! 🔍 <https://hchiam.github.io/?can-you-find-all-the-hidden-features?>
 
 <!--
 **hchiam/hchiam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
