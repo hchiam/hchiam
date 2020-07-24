@@ -1,5 +1,13 @@
 ### Hi there! 🔍 <https://hchiam.github.io/?can-you-find-all-the-hidden-features?>
 
+<div align="center">
+	<br>
+	<a href="https://github.com/hchiam/hchiam/blame/master/animation.svg">
+		<img src="header.svg" width="800" height="400">
+	</a>
+	<br>
+</div>
+
 <!--
 **hchiam/hchiam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
