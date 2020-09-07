@@ -9,7 +9,7 @@ Other fun explorations: <!-- Fun stuff but also stuff I tend to refer to often. 
 [URL Void Firefox extension](https://github.com/hchiam/urlvoid-firefox-extension). 
 [Anonymous input teaching tool](https://github.com/hchiam/anonymous-input). 
 [Random JS tidbits](https://github.com/hchiam/learning-js). 
-[Yeoman project code generator](https://github.com/hchiam/generator-hchiam-learning). 
+[Project code/setup generator](https://github.com/hchiam/generator-hchiam-learning). 
 
 <!-- <a href="https://hchiam.github.io/?can-you-find-all-the-hidden-features?">
   <img align="center" src="header.svg" width="400" height="60" alt="" onerror="this.style.display='none'"/>
