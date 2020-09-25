@@ -5,12 +5,13 @@ Other fun explorations: <!-- Fun stuff but also stuff I tend to refer to often. 
 [Code suggestions](https://github.com/hchiam/sourcefetch-server). 
 [Drawing without a touchpad/pen](https://github.com/hchiam/draw-with-mouse-and-spacebar). 
 [Web accessibility notes](https://github.com/hchiam/web-accessibility-course-notes). 
-[Explore code API with AI](https://github.com/hchiam/code-explorer).
+[Explore code API with AI](https://github.com/hchiam/code-explorer). 
+[Map out file dependencies](https://github.com/hchiam/deps). 
 [URL Void Firefox extension](https://github.com/hchiam/urlvoid-firefox-extension). 
 [Anonymous input teaching tool](https://github.com/hchiam/anonymous-input). 
 [Random JS tidbits](https://github.com/hchiam/learning-js). 
 [Project code/setup generator](https://github.com/hchiam/generator-hchiam-learning). 
-And [more](https://github.com/hchiam/learning)!
+And [more](https://github.com/hchiam/learning)! 
 
 <!-- <a href="https://hchiam.github.io/?can-you-find-all-the-hidden-features?">
   <img align="center" src="header.svg" width="400" height="60" alt="" onerror="this.style.display='none'"/>
