@@ -7,7 +7,7 @@ Other fun explorations: <!-- Fun stuff but also stuff I tend to refer to often. 
 [Web accessibility notes](https://github.com/hchiam/web-accessibility-course-notes). 
 [Explore code API with AI](https://github.com/hchiam/code-explorer). 
 [Map out file dependencies](https://github.com/hchiam/deps). 
-[URL Void Firefox extension](https://github.com/hchiam/urlvoid-firefox-extension). 
+[URLVoid Firefox extension](https://github.com/hchiam/urlvoid-firefox-extension). 
 [Anonymous input teaching tool](https://github.com/hchiam/anonymous-input). 
 [Random JS tidbits](https://github.com/hchiam/learning-js). 
 [Project code/setup generator](https://github.com/hchiam/generator-hchiam-learning). 
