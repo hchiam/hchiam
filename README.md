@@ -8,6 +8,7 @@ Other fun explorations: <!-- Fun stuff but also stuff I tend to refer to often. 
 [Explore code API with AI](https://github.com/hchiam/code-explorer). 
 [Map out file dependencies](https://github.com/hchiam/deps). 
 [URLVoid Firefox extension](https://github.com/hchiam/urlvoid-firefox-extension). 
+[Minimal slides editor and presenter](https://github.com/hchiam/slides). 
 [Anonymous input teaching tool](https://github.com/hchiam/anonymous-input). 
 [Random JS tidbits](https://github.com/hchiam/learning-js). 
 [Project code/setup generator](https://github.com/hchiam/generator-hchiam-learning). 
