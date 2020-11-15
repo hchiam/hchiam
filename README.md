@@ -1,6 +1,7 @@
 Hi there! 🔍 <https://hchiam.github.io/?can-you-find-all-the-hidden-features?>
 
 Other fun explorations: <!-- Fun stuff but also stuff I tend to refer to often. -->
+[Minimal slides editor and presenter](https://github.com/hchiam/slides). 
 [Superpowered Google docs](https://github.com/hchiam/learning-google-apps-script). 
 [Code suggestions](https://github.com/hchiam/sourcefetch-server). 
 [Drawing without a touchpad/pen](https://github.com/hchiam/draw-with-mouse-and-spacebar). 
@@ -8,7 +9,6 @@ Other fun explorations: <!-- Fun stuff but also stuff I tend to refer to often. 
 [Explore code API with AI](https://github.com/hchiam/code-explorer). 
 [Map out file dependencies](https://github.com/hchiam/deps). 
 [URLVoid Firefox extension](https://github.com/hchiam/urlvoid-firefox-extension). 
-[Minimal slides editor and presenter](https://github.com/hchiam/slides). 
 [Anonymous input teaching tool](https://github.com/hchiam/anonymous-input). 
 [Random JS tidbits](https://github.com/hchiam/learning-js). 
 [Project code/setup generator](https://github.com/hchiam/generator-hchiam-learning). 
