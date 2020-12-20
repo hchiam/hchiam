@@ -12,6 +12,7 @@ Other fun explorations: <!-- Fun stuff but also stuff I tend to refer to often. 
 [Anonymous input teaching tool](https://github.com/hchiam/anonymous-input). 
 [Random JS tidbits](https://github.com/hchiam/learning-js). 
 [Project code/setup generator](https://github.com/hchiam/generator-hchiam-learning). 
+[Custom VSCode linter](https://github.com/hchiam/custom-vscode-linter). 
 And [more](https://github.com/hchiam/learning)! 
 
 <!-- <a href="https://hchiam.github.io/?can-you-find-all-the-hidden-features?">
