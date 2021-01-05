@@ -1,7 +1,7 @@
 Hi there! 🔍 <https://hchiam.github.io/?can-you-find-all-the-hidden-features?>
 
 Other fun explorations: <!-- Fun stuff but also stuff I tend to refer to often. -->
-[Minimal slides editor and presenter](https://github.com/hchiam/slides). 
+[Simple slides editor and presenter](https://github.com/hchiam/slides). 
 [Superpowered Google docs](https://github.com/hchiam/learning-google-apps-script). 
 [Code suggestions](https://github.com/hchiam/sourcefetch-server). 
 [Drawing without a touchpad/pen](https://github.com/hchiam/draw-with-mouse-and-spacebar). 
