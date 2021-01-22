@@ -1,4 +1,4 @@
-Hi there! 🔍 <https://hchiam.github.io/?can-you-find-all-the-hidden-features?>
+Hi there! 🔍 <https://hchiam.com/?can-you-find-all-the-hidden-features?>
 
 Other fun explorations: <!-- Fun stuff but also stuff I tend to refer to often. -->
 [Simple slides editor and presenter](https://github.com/hchiam/slides). 
