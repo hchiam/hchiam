@@ -2,6 +2,7 @@ Hi there! 🔍 [hchiam.com](https://hchiam.com)
 
 Other fun explorations: <!-- Fun stuff but also stuff I tend to refer to often. -->
 [Simple slides editor and presenter](https://github.com/hchiam/slides).
+[Generate HTML from a visual UI](https://github.com/hchiam/html-template-generator).
 [Superpowered Google docs](https://github.com/hchiam/learning-google-apps-script).
 [Code suggestions](https://github.com/hchiam/sourcefetch-server).
 [Drawing without a touchpad/pen](https://github.com/hchiam/draw-with-mouse-and-spacebar).
