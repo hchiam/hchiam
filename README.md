@@ -3,8 +3,8 @@ Hi there! 🔍 [hchiam.com](https://hchiam.com)
 Other fun explorations: <!-- Fun stuff but also stuff I tend to refer to often. -->
 [Simple slides editor and presenter](https://github.com/hchiam/slides).
 [Generate HTML from a visual UI](https://github.com/hchiam/html-template-generator).
-[Superpowered Google docs](https://github.com/hchiam/learning-google-apps-script).
-[Make anything draggable and editable (accessibly too)](https://github.com/hchiam/draggable).
+[Super-powered Google docs](https://github.com/hchiam/learning-google-apps-script).
+[Make anything draggable and editable (with accessibility in mind)](https://github.com/hchiam/draggable).
 [Code suggestions](https://github.com/hchiam/sourcefetch-server).
 [Drawing without a touchpad/pen](https://github.com/hchiam/draw-with-mouse-and-spacebar).
 [Web accessibility notes](https://github.com/hchiam/web-accessibility-course-notes).
