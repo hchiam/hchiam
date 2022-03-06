@@ -1,6 +1,6 @@
-Hi there! 🔍 [hchiam.com](https://hchiam.com)
+Hi there! 🔍 [hchiam.com](https://hchiam.com) Here's some GitHub stats: [resume.github.io/?hchiam](https://resume.github.io/?hchiam)
 
-Other fun explorations: <!-- Fun stuff but also stuff I tend to refer to often. -->
+Some fun explorations: <!-- Fun stuff but also stuff I tend to refer to often. -->
 [Generate form template code without typing code](https://github.com/hchiam/html-template-generator).
 [Get the percent similarity between sentences](https://github.com/hchiam/text-similarity-test).
 [Build super-powered Google docs](https://github.com/hchiam/learning-google-apps-script).
