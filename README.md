@@ -6,7 +6,7 @@ Some fun explorations: <!-- Fun stuff but also stuff I tend to refer to often. -
 [Generate form template code without typing code](https://github.com/hchiam/html-template-generator).
 [Get the percent similarity between sentences](https://github.com/hchiam/text-similarity-test).
 [Build super-powered Google docs](https://github.com/hchiam/learning-google-apps-script).
-[Make anything draggable and editable (with keyboard-only accessibility in mind)](https://github.com/hchiam/draggable).
+[Make anything draggable and editable (with keyboard accessibility in mind)](https://github.com/hchiam/draggable).
 [Get automated code suggestions](https://github.com/hchiam/sourcefetch-server).
 [Draw without a touchpad/pen](https://github.com/hchiam/draw-with-mouse-and-spacebar).
 [Learn web accessibility](https://github.com/hchiam/web-accessibility-course-notes).
