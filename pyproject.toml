@@ -1,7 +1,6 @@
 [project]
 name = "hchiam"
-version = "0.0.3"  # Required
-description = "A sample Python project"  # Optional
+version = "0.0.4"  # Required
 readme = "README.md" # Optional
 
 # 'pip install' will check this
