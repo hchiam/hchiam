@@ -8,4 +8,5 @@ rm -rf dist
 python3 -m build
 python3 -m twine upload dist/*
 
-# python3 -m pip install hchiam
+# https://pypi.org/project/hchiam
+# pip3 install hchiam

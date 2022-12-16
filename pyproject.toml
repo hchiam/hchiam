@@ -1,6 +1,6 @@
 [project]
 name = "hchiam"
-version = "0.0.1"  # Required
+version = "0.0.2"  # Required
 description = "A sample Python project"  # Optional
 readme = "README.md" # Optional
 
