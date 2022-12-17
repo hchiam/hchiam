@@ -1,6 +1,6 @@
 [project]
 name = "hchiam"
-version = "0.0.4"  # Required
+version = "1.0.0"  # Required
 readme = "README.md" # Optional
 
 # 'pip install' will check this

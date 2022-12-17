@@ -2,7 +2,7 @@
 # python3 -m pip install --upgrade twine
 
 # update code
-# update pyproject.toml version number
+python3 update_version.py # update pyproject.toml version number
 # remove the old .whl and .gz files
 rm -rf dist
 python3 -m build
