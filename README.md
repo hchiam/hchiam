@@ -4,6 +4,7 @@ Here's some GitHub stats: [resume.github.io/?hchiam](https://resume.github.io/?h
 
 Some fun explorations: <!-- Fun stuff but also stuff I tend to refer to often. -->
 [Generate form template code without typing code](https://github.com/hchiam/html-template-generator).
+[Analyze comments with ML](https://github.com/hchiam/comment-analysis).
 [Get the percent similarity between sentences](https://github.com/hchiam/text-similarity-test).
 [Build super-powered Google docs](https://github.com/hchiam/learning-google-apps-script).
 [Make anything draggable and editable (with keyboard accessibility in mind)](https://github.com/hchiam/draggable).
