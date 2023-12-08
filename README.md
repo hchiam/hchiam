@@ -2,6 +2,8 @@ Hi there! 🔍 [hchiam.com](https://hchiam.com)
 
 Here's some GitHub stats: [resume.github.io/?hchiam](https://resume.github.io/?hchiam)
 
+What I'm learning/practicing: https://github.com/hchiam/learning
+
 Some fun explorations: <!-- Fun stuff but also stuff I tend to refer to often. -->
 [Generate form template code without typing code](https://github.com/hchiam/html-template-generator).
 [Analyze comments with ML](https://github.com/hchiam/comment-analysis).
