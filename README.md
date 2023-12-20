@@ -5,17 +5,18 @@ Here's some GitHub stats: [resume.github.io/?hchiam](https://resume.github.io/?h
 What I'm learning/practicing: https://github.com/hchiam/learning
 
 Some fun explorations: <!-- Fun stuff but also stuff I tend to refer to often. -->
-[Generate form template code without typing code](https://github.com/hchiam/html-template-generator).
+[Simple slides](https://github.com/hchiam/slides).
+[Build super-powered Google docs](https://github.com/hchiam/learning-google-apps-script).
+[Generate HTML forms without typing code](https://github.com/hchiam/html-template-generator).
 [Analyze comments with ML](https://github.com/hchiam/comment-analysis).
 [Get the percent similarity between sentences](https://github.com/hchiam/text-similarity-test).
-[Build super-powered Google docs](https://github.com/hchiam/learning-google-apps-script).
-[Make anything draggable and editable (with keyboard accessibility in mind)](https://github.com/hchiam/draggable).
 [Get automated code suggestions](https://github.com/hchiam/sourcefetch-server).
+[Make anything draggable and editable (with keyboard accessibility in mind)](https://github.com/hchiam/draggable).
 [Draw without a touchpad/pen](https://github.com/hchiam/draw-with-mouse-and-spacebar).
 [Learn web accessibility](https://github.com/hchiam/web-accessibility-course-notes).
 [Explore code API with AI](https://github.com/hchiam/code-explorer).
-[Map out file dependencies](https://github.com/hchiam/deps).
 [Scan website scripts with URLVoid via a Firefox extension](https://github.com/hchiam/urlvoid-firefox-extension).
+[Map out file dependencies](https://github.com/hchiam/deps).
 [Get anonymous input while teaching](https://github.com/hchiam/anonymous-input).
 [Learn random JS tidbits](https://github.com/hchiam/learning-js).
 [Auto-generate project code/setup](https://github.com/hchiam/generator-hchiam-learning).
