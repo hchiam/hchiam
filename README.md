@@ -7,10 +7,11 @@ What I'm learning/practicing: https://github.com/hchiam/learning
 Some fun explorations: <!-- Fun stuff but also stuff I tend to refer to often. -->
 [Simple slides](https://github.com/hchiam/slides).
 [Build super-powered Google docs](https://github.com/hchiam/learning-google-apps-script).
-[Generate HTML forms without typing code](https://github.com/hchiam/html-template-generator).
 [Analyze comments with ML](https://github.com/hchiam/comment-analysis).
-[Get the percent similarity between sentences](https://github.com/hchiam/text-similarity-test).
+[Get the percent semantic similarity between sentences](https://github.com/hchiam/text-similarity-test).
+[Generate HTML forms without typing code](https://github.com/hchiam/html-template-generator).
 [Get automated code suggestions](https://github.com/hchiam/sourcefetch-server).
+[Make 2D visuals more accessible with non-binaural sonification "notes"](https://github.com/hchiam/_2DNote).
 [Make anything draggable and editable (with keyboard accessibility in mind)](https://github.com/hchiam/draggable).
 [Draw without a touchpad/pen](https://github.com/hchiam/draw-with-mouse-and-spacebar).
 [Learn web accessibility](https://github.com/hchiam/web-accessibility-course-notes).
