@@ -1,8 +1,8 @@
 Hi there! 🔍 [hchiam.com](https://hchiam.com)
 
-Here's some GitHub stats: [resume.github.io/?hchiam](https://resume.github.io/?hchiam)
-
 What I'm learning/practicing: https://github.com/hchiam/learning
+
+Here's some GitHub stats: [resume.github.io/?hchiam](https://resume.github.io/?hchiam) (contribution counts are only for the past year or so)
 
 Some fun explorations: <!-- Fun stuff but also stuff I tend to refer to often. -->
 [Simple slides](https://github.com/hchiam/slides).
