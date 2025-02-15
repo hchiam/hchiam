@@ -5,6 +5,7 @@ What I'm learning/practicing: https://github.com/hchiam/learning
 Here's some GitHub stats: [resume.github.io/?hchiam](https://resume.github.io/?hchiam) (contribution counts are only for the past year or so)
 
 Some fun explorations: <!-- Fun stuff but also stuff I tend to refer to often. -->
+[Convenience canvas API JS library](https://github.com/hchiam/canvas-converse).
 [Simple slides](https://github.com/hchiam/slides).
 [Build super-powered Google docs](https://github.com/hchiam/learning-google-apps-script).
 [Analyze comments with ML](https://github.com/hchiam/comment-analysis).
