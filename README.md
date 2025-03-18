@@ -19,6 +19,7 @@ Some fun explorations: <!-- Fun stuff but also stuff I tend to refer to often. -
 [Learn web accessibility](https://github.com/hchiam/web-accessibility-course-notes).
 [Explore code API with AI](https://github.com/hchiam/code-explorer).
 [Scan website scripts with URLVoid via a Firefox extension](https://github.com/hchiam/urlvoid-firefox-extension).
+[Use the console log on mobile](https://github.com/hchiam/console-log-element).
 [Map out file dependencies](https://github.com/hchiam/deps).
 [Get anonymous input while teaching](https://github.com/hchiam/anonymous-input).
 [Learn random JS tidbits](https://github.com/hchiam/learning-js).
