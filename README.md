@@ -1,10 +1,11 @@
 Hi there! 🔍 [hchiam.com](https://hchiam.com)
 
-What I'm learning/practicing: https://github.com/hchiam/learning
+What I'm learning/practicing: <https://github.com/hchiam/learning>
 
 Here's some GitHub stats: [resume.github.io/?hchiam](https://resume.github.io/?hchiam) (contribution counts are only for the past year or so)
 
 Some fun explorations: <!-- Fun stuff but also stuff I tend to refer to often. -->
+[A lightweight mobile web inspector](https://github.com/hchiam/lightweight-inspector).
 [Run an LLM offline/locally in VSCode](https://github.com/hchiam/deepseek-vscode).
 [Convenience canvas API JS library](https://github.com/hchiam/canvas-converse).
 [Simple slides](https://github.com/hchiam/slides).
